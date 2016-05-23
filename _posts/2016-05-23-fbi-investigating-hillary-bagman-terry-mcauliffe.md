@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.breitbart.com/big-government/2016/05/23/terry-mcauliffe-clinton-bagman-fbi-investigation/'
 title: FBI Investigating Hillary Bagman Terry McAuliffe
-datePublished: '2016-05-23T22:02:06.933Z'
-dateModified: '2016-05-23T22:02:06.836Z'
+datePublished: '2016-05-23T22:08:32.582Z'
+dateModified: '2016-05-23T22:08:32.509Z'
 starred: false
 sourcePath: _posts/2016-05-23-fbi-investigating-hillary-bagman-terry-mcauliffe.md
 inFeed: true
