@@ -22,10 +22,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.breitbart.com/2016-presidential-race/2016/05/23/exclusive-rnc-spokesman-dem-convention-is-going-to-be-an-absolute-nightmare/'
 title: "EXCLUSIVE-RNC Spokesman: Democrat Convention Is Going to Be an 'Absolute Nightmare' - Breitbart"
-datePublished: '2016-05-23T22:08:32.557Z'
-dateModified: '2016-05-23T22:08:32.447Z'
-starred: false
+datePublished: '2016-05-23T22:09:51.576Z'
+dateModified: '2016-05-23T22:09:50.980Z'
 sourcePath: _posts/2016-05-23-exclusive-rnc-spokesman-democrat-convention-is-going-to-be.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
