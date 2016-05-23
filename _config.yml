@@ -1,14 +1,14 @@
-layout_spectrum: 0.1158578076865524
-typography_spectrum: 0.8244970056694001
+layout_spectrum: 0.32614645059220493
+typography_spectrum: 0.5014840504154563
 color:
-  brandStrength: 0.6480167582631111
-  lightness: 0.8517134292051196
-  saturation: 0.3261959315277636
-  rhythmicContrast: 0.388346366584301
+  brandStrength: 0.018308121245354414
+  lightness: 0.8761398014612496
+  saturation: 0.6136153019033372
+  rhythmicContrast: 0.47940785880200565
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - 'hsl(220,40%,98%)'
+    - 'hsl(220,67%,40%)'
+    - 'hsl(0,63%,40%)'
+    - 'hsl(220,40%,40%)'
+    - 'hsl(220,10%,80%)'
 name: ConstitutionalPartySite
