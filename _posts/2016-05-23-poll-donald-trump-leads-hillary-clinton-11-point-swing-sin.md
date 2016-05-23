@@ -22,10 +22,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.breitbart.com/2016-presidential-race/2016/05/22/donald-trump-leads-hillary-clinton-11-point-swing-since-march/'
 title: 'Poll: Donald Trump Leads Hillary Clinton; 11-Point Swing Since March'
-datePublished: '2016-05-23T22:08:32.149Z'
-dateModified: '2016-05-23T22:08:32.070Z'
-starred: false
+datePublished: '2016-05-23T22:09:32.499Z'
+dateModified: '2016-05-23T22:09:31.700Z'
 sourcePath: _posts/2016-05-23-poll-donald-trump-leads-hillary-clinton-11-point-swing-sin.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
